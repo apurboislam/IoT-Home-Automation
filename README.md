@@ -147,10 +147,10 @@ Build your own **smart home automation system** using a **NodeMCU ESP8266** and 
 
 We welcome contributions of any kind:
 
-* 🐛 Report bugs → [Submit an issue](https://github.com/apurboislam/iot-home-automation/issues)
-* 🌟 Star the repo → [Give it a star](https://github.com/apurboislam/iot-home-automation/stargazers)
-* 🛠️ Submit improvements → [Open a pull request](https://github.com/apurboislam/iot-home-automation/pulls)
-* 📈 View repo activity → [Repo insights](https://github.com/apurboislam/iot-home-automation/pulse)
+* 🐛 Report bugs → [Submit an issue](https://github.com/apurboislam/IoT-Home-Automation/issues)
+* 🌟 Star the repo → [Give it a star](https://github.com/apurboislam/IoT-Home-Automation/stargazers)
+* 🛠️ Submit improvements → [Open a pull request](https://github.com/apurboislam/IoT-Home-Automation/pulls)
+* 📈 View repo activity → [Repo insights](https://github.com/apurboislam/IoT-Home-Automation/pulse)
 
 ---
 
